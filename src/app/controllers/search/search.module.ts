@@ -21,6 +21,5 @@ import { SearchComponent } from './search.component';
     InputTextModule,
     HttpClientModule,
   ],
-  providers: [],
 })
 export class SearchModule {}
